@@ -13,10 +13,12 @@ I also do some CTF's. Check out my profiles below:
   <a href="https://app.hackthebox.com/users/1903314">
     <img src="https://app.hackthebox.com/images/HTB-favicon/favicon.ico" alt="Hack The Box" width="70" height="70" style="border: none; outline: none;"/>
   </a>
+  &nbsp; &nbsp; <!-- Adds space between the icons -->
   
   <a href="https://tryhackme.com/p/Hysox">
     <img src="https://assets.tryhackme.com/img/THMlogo.png" alt="TryHackMe" width="100" height="70" style="border: none; outline: none;"/>
   </a>
+  &nbsp; &nbsp; <!-- Adds space between the icons -->
   
   <a href="https://www.root-me.org/Hysox-903835?lang=fr#d2fae1b33e763acf92971826c2bac0b9">
     <img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="Root Me" width="70" height="70" style="border: none; outline: none;"/>
