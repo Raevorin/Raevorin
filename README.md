@@ -14,7 +14,7 @@ I also do some CTF's. Check out my profiles below:
     <img src="https://app.hackthebox.com/images/HTB-favicon/favicon.ico" alt="Hack The Box" width="50" height="50"/>
   </a>
   <a href="https://tryhackme.com/p/Hysox">
-    <img src="https://tryhackme.com/images/tryhackme-logo.svg" alt="TryHackMe" width="50" height="50"/>
+    <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" width="50" height="50"/>
   </a>
   <a href="https://www.root-me.org/Hysox-903835?lang=fr#d2fae1b33e763acf92971826c2bac0b9">
     <img src="https://www.root-me.org/images/logo.png" alt="Root Me" width="50" height="50"/>
