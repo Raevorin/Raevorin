@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi! I'm Maxence, a passionate developer and tech enthusiast. Below are some of the tools and languages I work with, as well as a fun fact about me. Feel free to explore my projects and connect with me!
+Hi! I'm Maxence, i'm a junior penetration tester and a bug hunter, here i will share all my exploit's, poc's, tools and much more !
 
 ---
 
@@ -22,11 +22,8 @@ Hi! I'm Maxence, a passionate developer and tech enthusiast. Below are some of t
 ### 🛠️ Software & Tools
 
 <div align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/a/a3/CapCut_logo.svg](https://iconlogovector.com/uploads/images/2024/03/lg-65e77f52d4ddc-CapCut.webp)" alt="capcut" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Microsoft_Word_logo_%282013-2019%29.svg" alt="word" width="50" height="50"/>
 </div>
 
 ---
