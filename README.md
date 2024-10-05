@@ -15,11 +15,11 @@ I also do some CTF's. Check out my profiles below:
   </a>
   
   <a href="https://tryhackme.com/p/Hysox">
-    <img src="https://assets.tryhackme.com/img/THMlogo.png" alt="TryHackMe" width="70" height="70"/>
+    <img src="https://assets.tryhackme.com/img/THMlogo.png" alt="TryHackMe" width="100" height="70" style="border: none; outline: none;"/>
   </a>
   
   <a href="https://www.root-me.org/Hysox-903835?lang=fr#d2fae1b33e763acf92971826c2bac0b9">
-    <img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="Root Me" width="70" height="70"/>
+    <img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="Root Me" width="70" height="70" style="border: none; outline: none;"/>
   </a>
 </div>
 
