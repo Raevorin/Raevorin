@@ -19,11 +19,7 @@ I also do some CTF's. Check out my profiles below:
   <a href="https://www.root-me.org/Hysox">
     <img src="https://www.root-me.org/images/logo.png" alt="Root Me" width="50" height="50"/>
   </a>
-
-
----
-
-
+</div>
 
 ---
 
