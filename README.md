@@ -42,14 +42,7 @@ Hi! I'm Maxence, a passionate developer and tech enthusiast. Below are some of t
 
 ### 🤓 Fun Fact
 
-I speak 6 languages fluently! 🗣️
-
-- **Español**
-- **中文 (Chinese)**
-- **日本語 (Japanese)**
-- **English**
-- **Français**
-- **Русский (Russian)**
+I started cybersecurity at the age of 11 :D
 
 ---
 
