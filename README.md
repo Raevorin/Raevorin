@@ -22,7 +22,7 @@ Hi! I'm Maxence, a passionate developer and tech enthusiast. Below are some of t
 ### 🛠️ Software & Tools
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/CapCut_logo.svg" alt="capcut" width="50" height="50"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/a/a3/CapCut_logo.svg](https://iconlogovector.com/uploads/images/2024/03/lg-65e77f52d4ddc-CapCut.webp)" alt="capcut" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="50" height="50"/>
