@@ -10,7 +10,7 @@
 [![The Black Side CTF](https://img.shields.io/badge/The%20Black%20Side%20CTF-00BFFF?style=for-the-badge&logo=appveyor&logoColor=white)](https://theblackside.fr/profil/Hysox)
 
 
-## Programming
+## PROGRAMMING
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![C](https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -24,3 +24,7 @@
 ## OS
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org)
 
+## CONTACT ME 
+
+**discord : trypwnme**
+**Gmail : hysoxxgames@gmail.com**
