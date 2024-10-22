@@ -10,3 +10,5 @@ I'm a 15 years old security Professional and a Security Researcher.
 [![Root Me](https://img.shields.io/badge/Root%20Me-3D3D3D?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/Hysox)
 [![The Black Side CTF](https://img.shields.io/badge/The%20Black%20Side%20CTF-00BFFF?style=for-the-badge&logo=appveyor&logoColor=white)](https://theblackside.fr/profil/Hysox)
 
+## OS
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org)
