@@ -26,5 +26,5 @@
 
 ## CONTACT ME 
 
-**discord : trypwnme**
-**Gmail : hysoxxgames@gmail.com**
+**discord : trypwnme**<br>
+**Email : hysoxxgames@gmail.com**
