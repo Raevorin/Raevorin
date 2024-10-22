@@ -1,6 +1,5 @@
 # Hi there, I'm Maxence! 👋
 
-![Banner](https://your-banner-image-url) <!-- Replace with your banner image URL -->
 
 ## 🚀 About Me
 I'm a passionate cybersecurity enthusiast, currently diving deep into various aspects of security. I enjoy hunting for bugs and developing exploits.
@@ -18,10 +17,10 @@ I work with a variety of programming languages and tools, including:
 - **Operating System**: Arch Linux 🐧
 
 ## 🌟 GitHub Stats
-![Maxence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical) <!-- Replace with your GitHub username -->
+![Maxence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hysox&show_icons=true&theme=radical) <!-- Replace with your GitHub username -->
 
 ## 📈 My Activity
-![Maxence's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=react-dark) <!-- Replace with your GitHub username -->
+![Maxence's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hysox&theme=react-dark) <!-- Replace with your GitHub username -->
 
 ## 💬 Let's Connect
 Feel free to reach out if you're interested in collaborating or discussing cybersecurity topics!
