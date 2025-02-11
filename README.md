@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=A2D9FF&lines=Maxence+|+Security+Professional)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=A2D9FF&lines=Maxence+|+Cybersecurity+Researcher)](https://git.io/typing-svg)
 ## About Me
 **I'm a 16 years old Security Professional and a Security Researcher.**
 
